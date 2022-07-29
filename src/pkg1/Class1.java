@@ -8,7 +8,7 @@ public class Class1 {
 		// TODO Auto-generated method stub
 		
 		int []a = {10,20,30,40,50};
-		//code changes for tst1
+		
 		//a[0]=10;
 		
 		//a[1]=20;

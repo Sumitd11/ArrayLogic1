@@ -8,9 +8,9 @@ public class Class1 {
 		// TODO Auto-generated method stub
 		
 		int []a = {10,20,30,40,50};
-		
+		//11
 		//a[0]=10;
-		
+		//13
 		//a[1]=20;
 	
 		//a[2]=30;
